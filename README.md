@@ -11,6 +11,6 @@
 - :snowflake: Currently exploring the python language and all its features and libraries related to machine learning and deep learning.
 - 🤔 I’m looking for help with landing on an internship.
 - 💬 Ask me about Data Wrangling,Machine Learning,Predictive Modelling.
-- 📫 How to reach me:question:: :telephone_receiver:8608190981 :email: nikhithasiva98@gmail.com Social profile:link::[LinkedIn](https://www.linkedin.com/in/nikhitha-sivaprakasam-31213418b/) 
+- 📫 How to reach me:email: nikhithasiva98@gmail.com Social profile:link::[LinkedIn](https://www.linkedin.com/in/nikhitha-sivaprakasam-31213418b/) 
 - :loudspeaker:Trivial Info: skilled @ cooking and baking experimentation:pizza: and also a proud binge racer:exclamation:
 
