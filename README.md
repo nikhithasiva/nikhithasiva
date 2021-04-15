@@ -1,5 +1,5 @@
 ### Greetings from a data science enthusiast! 👋:grin:
-:mega:`I am a machine learning and deep learning enthusiast willing to broaden and deepen my knowledge about the subject.I am someone who is really passionate about data. 
+:mega:`I am a machine learning and deep learning enthusiast who is really passionate about data. 
  Right from when I started my odyssey with data science, the intense desire to learn new things has never descended`:heart:
  
 ***I have hands-on experience with machine learning algorithms and I have also implemented models for various data sets. Furthermore, I have experience in analysing and handling    distinct data sets using the python language. My experience with handling data includes data wrangling and using machine learning algorithms to make sense of data and draw valuable insights***.
