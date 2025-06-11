@@ -32,4 +32,4 @@ Open to collaboration on innovative projects—especially in SWE, AI/ML, and dat
 
 📧 Email: sivaprakasamnikhitha@gmail.com  
 🔗 LinkedIn: linkedin.com/in/nikhithasiva  
-📍 Buffalo, NY | Willing to Relocate
+📍 San Francisco, CA | Willing to Relocate
